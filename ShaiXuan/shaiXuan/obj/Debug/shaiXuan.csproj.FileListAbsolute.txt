@@ -1,0 +1,10 @@
+E:\VS2008 Projects\ShaiXuan\shaiXuan\bin\Debug\shaiXuan.exe.config
+E:\VS2008 Projects\ShaiXuan\shaiXuan\obj\Debug\shaiXuan.exe
+E:\VS2008 Projects\ShaiXuan\shaiXuan\bin\Debug\shaiXuan.exe
+E:\VS2008 Projects\ShaiXuan\shaiXuan\bin\Debug\shaiXuan.pdb
+E:\VS2008 Projects\ShaiXuan\shaiXuan\obj\Debug\ResolveAssemblyReference.cache
+E:\VS2008 Projects\ShaiXuan\shaiXuan\obj\Debug\shaiXuan.Form1.resources
+E:\VS2008 Projects\ShaiXuan\shaiXuan\obj\Debug\shaiXuan.Properties.Resources.resources
+E:\VS2008 Projects\ShaiXuan\shaiXuan\obj\Debug\shaiXuan.Change.resources
+E:\VS2008 Projects\ShaiXuan\shaiXuan\obj\Debug\shaiXuan.csproj.GenerateResource.Cache
+E:\VS2008 Projects\ShaiXuan\shaiXuan\obj\Debug\shaiXuan.pdb
