@@ -13,7 +13,7 @@ namespace shaiXuan.cs
     class Enter1
     {
         /// <summary>
-        /// 
+        /// 1111
         /// </summary>
         public string Str1 { get; set; }
         /// <summary>
